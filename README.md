@@ -1,2 +1,2 @@
 # Blackjack
-The classisc casino game blackjack coded in python
+The classic casino game blackjack coded in python
